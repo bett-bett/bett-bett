@@ -1,4 +1,4 @@
-### Hello, I am [bryan kiplangat](https://github.com/bryan-kiplangat/bryan-kiplangat/)
+### Hello, I am [bryan kiplangat](https://github.com/bryan-kiplangat)
 
 🔧  I enjoy crafting automations and fixing bugs along my coding journey.  
 🌱  On this profile, I am currently diving deeper into:
