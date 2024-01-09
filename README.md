@@ -45,7 +45,7 @@ Watchful Whispers Tally
 Spectral Sight Log
 shadows
 -->
-
+</br>
 
 ![](https://komarev.com/ghpvc/?username=bryan-kiplangat&color=228736&label=Silent+Adventurer's+Log)
 ![](https://hit.yhype.me/github/profile?user_id=144426613)
