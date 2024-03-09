@@ -3,20 +3,23 @@
 🔧  I enjoy crafting automations and fixing bugs along my coding journey.  
 🌱  On this profile, I am currently diving deeper into:
   - Frontend: HTML, CSS, JavaScript, <span title="Yes react is a library! Unlike laravel framework which provides pre-defined conventions, intergrated functionality.. react is mainly focused on UI development through its component based architecture and allowing intergration with other tools" style="cursor: help;">the React library</span>
-  - Backend: Python, Flask
+  - Backend: Python, Flask, React
 
 </br>
 
-  - Server Administration & tinkering with Arduino
-  - ...
+  - Server Administration
+  - Micro controller design and development
+  - 
+
+#### Deployed projects
+- [What Word Dictionary](https://what-word.vercel.app/)
 
 #### Let us connect
-- 🌐 [bryanbett.hashnode.dev](https://bryanbett.hashnode.dev/)
+- [Development journeys blog](https://bryanbett.hashnode.dev/)
 
 ---
-🌟 **Error logs enjoyer**
 
-👀 Fun fact: If it runs, it can be automated
+👀 : If it runs, it can be automated
 
 <!-- 
 Todo: Do people like emojis? hold a pole
