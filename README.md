@@ -1,18 +1,20 @@
-### Hello, I am [bryan kiplangat](https://github.com/bryan-kiplangat)
+### Hello, I am [bryan](https://github.com/bryan-kiplangat)
 
-🔧  I enjoy crafting automations and fixing bugs along my coding journey.  
-🌱  On this profile, I am currently diving deeper into:
-  - Frontend: HTML, CSS, JavaScript, <span title="Yes react is a library! Unlike laravel framework which provides pre-defined conventions, intergrated functionality.. react is mainly focused on UI development through its component based architecture and allowing intergration with other tools" style="cursor: help;">the React library</span>
-  - Backend: Python, Flask, React
+🔧  **Automation** - "make it do that again". "look ma, no hands"
+
+🌱  **Learning, developing**
+  - Backend: Python, Flask, React.    -logic 
+  - Frontend: JavaScript, <span class="thoughts" title="Yes react is a library! Unlike laravel framework which provides pre-defined conventions, intergrated functionality.. react is mainly focused on UI development through its component based architecture and allowing intergration with other tools" style="cursor: help;">the React library</span>, Laravel.   -yes I can add components onto it
 
 </br>
 
   - Server Administration
-  - Micro controller design and development
+  - Embedded systems design and development
   - 
 
-#### Deployed projects
-- [What Word Dictionary](https://what-word.vercel.app/)
+#### <span class="thoughts" title="click my links. actions over words. sight over sound. Full experience awaits. peace"> Deployed projects </span> 
+- [What Word Dictionary](https://what-word.vercel.app/) - dictionary web application
+- [Uum]() - something fun because, why not
 
 #### Let us connect
 - [Development journeys blog](https://bryanbett.hashnode.dev/)
@@ -23,12 +25,12 @@
 
 <!-- 
 Todo: Do people like emojis? hold a pole
-Todo: Use "Python aficionado on a quest for mastery, and always seeking new ways to blend code with creativity." Create dictionary web app to describe what aficionado means and link to word
+Todo: Use "Python aficionado on a quest for mastery, and always seeking new ways to blend code with creativity." -Create dictionary web app to describe what aficionado means- and link to word
 -->
 
 <!--
 Can't settle on one.
-If you can see this, you can use one. Just one, no more :)
+If you can see this, you can use one. Just one though, leave some for the rest :)
 
 more More MORE
 To the moon
@@ -50,5 +52,5 @@ shadows
 -->
 </br>
 
-![](https://komarev.com/ghpvc/?username=bryan-kiplangat&color=228736&label=Silent+Adventurer's+Log)
+![](https://komarev.com/ghpvc/?username=bryan-kiplangat&color=228736&label=You+are+here.+You+will+not+be+fogoten)
 ![](https://hit.yhype.me/github/profile?user_id=144426613)
