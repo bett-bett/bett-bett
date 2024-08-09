@@ -1,31 +1,26 @@
-### Hello, I am [bryan](https://github.com/bryan-kiplangat)
+### Hello, I am [developer guy](https://github.com/bryan-kiplangat)
 
 🔧  **Automation** - "make it do that again". "look ma, no hands"
 
-🌱  **Learning, developing**
-  - Backend: Python, Flask, React.    -logic 
-  - Frontend: JavaScript, <span class="thoughts" title="Yes react is a library! Unlike laravel framework which provides pre-defined conventions, intergrated functionality.. react is mainly focused on UI development through its component based architecture and allowing intergration with other tools" style="cursor: help;">the React library</span>, Laravel.   -yes I can add components onto it
+🌱  **Languages and tools I currently use**
 
-</br>
-
-  - Server Administration
-  - Embedded systems design and development
-  - 
-
+![Tools I use](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,py,p5js,figma,supabase,firebase,docker,arduino,md,git,github,githubactions,postman,ubuntu,stackoverflow&perline=11)
+ 
 #### <span class="thoughts" title="click my links. actions over words. sight over sound. Full experience awaits. peace"> Deployed projects </span> 
 - [What Word Dictionary](https://what-word.vercel.app/) - dictionary web application
 - [Uum]() - something fun because, why not
 
+<!--
 #### Let us connect
 - [Development journeys blog](https://bryanbett.hashnode.dev/)
+-->
 
 ---
 
 👀 : If it runs, it can be automated
 
 <!-- 
-Todo: Do people like emojis? hold a pole
-Todo: Use "Python aficionado on a quest for mastery, and always seeking new ways to blend code with creativity." -Create dictionary web app to describe what aficionado means- and link to word
+Todo: Do people like emojis? hold a pole. - responses mostly negative
 -->
 
 <!--
