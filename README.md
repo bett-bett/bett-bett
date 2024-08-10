@@ -1,4 +1,4 @@
-### Hello, I am [developer guy](https://github.com/bryan-kiplangat)
+### Hello, I am [a developer guy](https://github.com/bryan-kiplangat)
 
 🔧  **Automation** - "make it do that again". "look ma, no hands"
 
@@ -8,7 +8,7 @@
  
 #### <span class="thoughts" title="click my links. actions over words. sight over sound. Full experience awaits. peace"> Deployed projects </span> 
 - [What Word Dictionary](https://what-word.vercel.app/) - dictionary web application
-- [Uum]() - something fun because, why not
+- [Uum](myinternet.vercel.app) - something fun, because why not
 
 <!--
 #### Let us connect
