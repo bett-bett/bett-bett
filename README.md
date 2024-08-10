@@ -8,7 +8,7 @@
  
 #### <span class="thoughts" title="click my links. actions over words. sight over sound. Full experience awaits. peace"> Deployed projects </span> 
 - [What Word Dictionary](https://what-word.vercel.app/) - dictionary web application
-- [Uum](myinternet.vercel.app) - something fun, because why not
+- [Uum](https://myinternet.vercel.app) - something fun, because why not
 
 <!--
 #### Let us connect
