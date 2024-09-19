@@ -47,5 +47,5 @@ shadows
 -->
 </br>
 
-![](https://komarev.com/ghpvc/?username=bryan-kiplangat&color=228736&label=You+are+here.+You+will+not+be+fogoten)
+![](https://komarev.com/ghpvc/?username=bryan-kiplangat&color=228736&label=Seen+my+name:)
 ![](https://hit.yhype.me/github/profile?user_id=144426613)
