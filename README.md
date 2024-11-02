@@ -1,26 +1,28 @@
-### Hello, I am [a developer guy](https://github.com/bryan-kiplangat)
+<div align="center">
 
-🔧  **Automation** - "make it do that again". "look ma, no hands"
+### Hello, I am [Bryan Bett](https://github.com/bett-bett)
 
-🌱  **Languages and tools I currently use**
+Software Engineer; will code for change.
 
 ![Tools I use](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,py,p5js,figma,supabase,firebase,docker,arduino,md,git,github,githubactions,postman,ubuntu,stackoverflow&perline=11)
  
-#### <span class="thoughts" title="click my links. actions over words. sight over sound. Full experience awaits. peace"> Deployed projects </span> 
-- [What Word Dictionary](https://what-word.vercel.app/) - dictionary web application
-- [Uum](https://myinternet.vercel.app) - something fun, because why not
+#### <span class="thoughts" title="Actions over words. sight over sound. things we do to learn, to be better. be better"> Projects on display </span> 
+[What Word Dictionary](https://what-word.vercel.app/) - react web application utilising a dictionary api.
+ 
+[Task app](https://react-basics-bryan.vercel.app) - React basics; Use the app and watch the toast notifications to see the code I used.
 
-<!--
-#### Let us connect
-- [Development journeys blog](https://bryanbett.hashnode.dev/)
--->
+[Wavy lines](https://lines.254255256.xyz/) - An attempt at art using p5js. I mostly use this to generate wallpapers.
+
+
+
+[bett-bett.github.io](https://bett-bett.github.io) - I share my insights here
+
 
 ---
 
-👀 : If it runs, it can be automated
-
-<!-- 
-Todo: Do people like emojis? hold a pole. - responses mostly negative
+👀 : If it runs, it certainly can be automated
+<!--
+WannabeMadScientist !!!
 -->
 
 <!--
@@ -47,5 +49,7 @@ shadows
 -->
 </br>
 
-![](https://komarev.com/ghpvc/?username=bryan-kiplangat&color=228736&label=Seen+my+name:)
+![](https://komarev.com/ghpvc/?username=bryan-kiplangat&color=228736&label=Number+go+up:)
 ![](https://hit.yhype.me/github/profile?user_id=144426613)
+
+<div/>
