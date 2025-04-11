@@ -2,6 +2,9 @@
 
 ### Hello, I am [Bryan Bett](https://github.com/bett-bett)
 
+<!--
+Auto sort languages
+-->
 
 ![Tools I use](https://skillicons.dev/icons?i=react,vite,html,css,md,tailwind,js,ts,next,supabase,py,p5js,figma,firebase,docker,arduino,git,github,githubactions,postman,ubuntu,stackoverflow&perline=11)
  
@@ -13,7 +16,9 @@
  
 [Wavy lines](https://lines.254255256.xyz/) - An attempt at art using p5js. I mostly use this to generate wallpapers.
 
-
+<!--
+Sort and visualize languages
+-->
 [bett-bett.github.io](https://bett-bett.github.io) - I share my insights here
 
 <div/>
